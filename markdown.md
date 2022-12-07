@@ -1,12 +1,12 @@
 # Markdown
-## ***Ordered***List
+## ***Ordered*** List
 1. First item
 2. Second item
 3. Third item
 4. Fourth item
 5. Fifth item
 
-## ***Unordered***List
+## ***Unordered*** List
 + First item
 + Second item
 + Third item
