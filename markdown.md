@@ -26,5 +26,15 @@
 
 ### A third level of *Heading*
 
+### ***Links***
 
+Here is a link for [BeCode](https://becode.org/)
+With the guide provided on [Markdownguide](https://www.markdownguide.org/basic-syntax/#links)
 
+#### _Images_
+
+![Spaceships are amazing!](https://ia802302.us.archive.org/4/items/the-spaceship-s-01-e-03-monster/1c.jpg?cnt=0)
+
+#### *Animated Image*
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
