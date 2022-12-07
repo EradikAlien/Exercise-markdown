@@ -38,3 +38,11 @@ With the guide provided on [Markdownguide](https://www.markdownguide.org/basic-s
 #### *Animated Image*
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+##### Code
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <h1>Hello World</h1>
+  </div>
+</div>
